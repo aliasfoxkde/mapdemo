@@ -1,0 +1,18 @@
+{
+  "name": "mapdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "maplibre-gl": "^5.0.1",
+    "vite": "^6.0.9"
+  }
+}
